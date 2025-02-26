@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Udari Hansika  
+##### 👋 Hi, I’m Udari Hansika  
 ## 🚀 A Passionate Frontend Developer from Sri Lanka  
 
 💡 **About Me:**  
@@ -9,8 +9,8 @@
 - 📫 How to reach me: **udarihansika2000@gmail.com**  
 
 ### 📌 Connect with Me:  
-[![LinkedIn](in/udari-hansika-713baa2ba)  
-[![GitHub](https://github.com/Hansika114)  
+*[LinkedIn](in/udari-hansika-713baa2ba)*
+
 
 
 <!---
