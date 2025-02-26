@@ -1,5 +1,5 @@
-##### 👋 Hi, I’m Udari Hansika  
-## 🚀 A Passionate Frontend Developer from Sri Lanka  
+# 👋 Hi, I’m Udari Hansika  
+### 🚀 A Passionate Frontend Developer from Sri Lanka  
 
 💡 **About Me:**  
 - 👀 I’m interested in **Frontend Development, UI/UX Design, and Mobile App Development**  
